@@ -1,0 +1,6 @@
+c:\users\horva\documents\visual studio 2015\Projects\MobileChatService\MobileChatService\bin\MobileChatService.dll.config
+c:\users\horva\documents\visual studio 2015\Projects\MobileChatService\MobileChatService\bin\MobileChatService.dll
+c:\users\horva\documents\visual studio 2015\Projects\MobileChatService\MobileChatService\bin\MobileChatService.pdb
+c:\users\horva\documents\visual studio 2015\Projects\MobileChatService\MobileChatService\obj\Debug\MobileChatService.csprojResolveAssemblyReference.cache
+c:\users\horva\documents\visual studio 2015\Projects\MobileChatService\MobileChatService\obj\Debug\MobileChatService.dll
+c:\users\horva\documents\visual studio 2015\Projects\MobileChatService\MobileChatService\obj\Debug\MobileChatService.pdb
